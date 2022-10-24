@@ -1,6 +1,8 @@
 
 # Practica 1,  lógica computacional
 
+Escrito por Gonzalo Valdez
+
 ## Descripción del proyecto
 
  Un conjunto de reglas del ajedrez(no todas) escritas en el lenguaje Prolog, consigue realizar la lógica computacional de las siguientes reglas:
